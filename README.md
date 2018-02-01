@@ -1,4 +1,4 @@
-This program is currently being developed (Working Alpha = Currently Windows only)
+This program is currently being developed (Working Alpha - Currently Windows only)
 
 - Receives GPS coordinates from members
 - Sends notification to nearby members
