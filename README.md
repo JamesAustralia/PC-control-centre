@@ -4,6 +4,5 @@ This program is currently being developed (Working Alpha - Currently Windows onl
 - Sends notification to nearby members
 
 <b>TO DO:</b>
-- Switching from SMTP to Apache server
-- Incorporate transmission PSK protocol
+- Setup website and get phone to read data (https://github.com/kivy/kivy/wiki/Updating-widget-content-from-a-items-list)
 - Contact CURTIN University regarding Fireballs In The Sky application code for trajectory algorithms and GUI
